@@ -7,25 +7,28 @@ title: Mousa Zeid Baker's CV
 Degree in Computer Science and Engineering
 
 ## About me
-Extremely motivated to constantly develop my skills and grow professionally. I 
-am confident in my ability to come up with interesting ideas where I can apply 
-my technical knowledge and skills for continuous improvement. My interests lie 
-primarily within the field of software development and artificial intelligence, 
-specifically and machine learning and deep learning.
+Extremely motivated to constantly develop my skills and grow professionally for
+continuous improvement. I am confident in my ability to come up with creative
+solutions and ideas where I can apply my technical knowledge and skills. My
+interests lie primarily within the field of software development and artificial
+intelligence, specifically machine learning and deep learning. 
 
 
 ## Currently 
 
 I'm a Software developer at [Axis Communications](http://www.axis.com/), based 
-at their R&D site in Lund, Sweden. 
+at the R&D New Busniess site in Lund, Sweden. 
 
 ## Experience 
 
-`2018-` __Axis Communications__ Software developer 
+`2018-` __Axis Communications__ Software Developer (Guardian)
 
-Developing cloud-based surveillance solution for security and alarm monitoring 
-companies. The platform setup includes network video cameras and a variety of 
-analytics and security devices solutions.
+Developer with a cloud-based surveillance solution for security and alarm
+monitoring companies called Guardian. The platform setup included network video
+cameras and a variety of analytics and security devices. I had the time to be
+part of two agile teams, one backend and one frontend, with a main focus on the
+backend in both teams. With time I got an important role as an API specialist
+where I had the oppurtunity to both design and implement JSON RESTful APIs. 
 
 `2017` __Sony Mobile Communications__ Master's Degree Project 
 
@@ -39,9 +42,9 @@ format in NVIDIA DIGITS.
 
 `2016` __Ericsson Stockholm__ Internship 
 
-Worked with deep learning within the department of Cloudplatform HDS. Various 
+Worked with deep learning within the department of Cloud platform HDS. Various 
 of deep learning frameworks such as Caffe, TensorFlow, Keras, scikit-learn, 
-Torch etc were used. to model different types of artificial neural networks. 
+Torch etc were used to model different types of artificial neural networks. 
 From simple fully connected neural networks (NN) to recurrent neural networks (
 RNN) for predicting utilization levels and failures in Data Center 
 installations. 
@@ -84,6 +87,7 @@ with Generative Adversarial Networks.
 ## Areas of expertise 
 
 * Software development
+* Computer science
 * Machine learning
 * Deep learning 
 
