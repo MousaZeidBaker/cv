@@ -1,8 +1,3 @@
----
-layout: cv
-title: Mousa Zeid Baker's CV
----
-
 # Mousa Zeid Baker
 Degree in Computer Science and Engineering
 
@@ -100,19 +95,13 @@ Adversarial Networks.
 * Leadership
 
 ## Links 
-* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/mousazeidbaker/">LinkedIn</a>
+* [LinkedIn](https://www.linkedin.com/in/mousazeidbaker/)
 
 ## References
 
 Available on request.
 
 ## Contact
-Phone: 0736- 48 64 64
-
-Email: mousa.zeid.baker@gmail.com
-
+Phone: 0736- 48 64 64  
+Email: mousa.zeid.baker@gmail.com  
 Adress: Malmö, Sweden
-
-<!-- ### Footer
-
-Last updated: May 2019 -->
