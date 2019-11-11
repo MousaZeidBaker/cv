@@ -17,7 +17,7 @@ intelligence, specifically machine learning and deep learning.
 ## Currently 
 
 I'm a Software developer at [Axis Communications](http://www.axis.com/), based 
-at the R&D New Busniess site in Lund, Sweden. 
+at the R&D New Business site in Lund, Sweden. 
 
 ## Experience 
 
@@ -28,7 +28,7 @@ monitoring companies called Guardian. The platform setup included network video
 cameras and a variety of analytics and security devices. I had the time to be
 part of two agile teams, one backend and one frontend, with a main focus on the
 backend in both teams. With time I got an important role as an API specialist
-where I had the oppurtunity to both design and implement JSON RESTful APIs. 
+where I had the opportunity to both design and implement JSON RESTful APIs. 
 
 `2017` __Sony Mobile Communications__ Master's Degree Project 
 
