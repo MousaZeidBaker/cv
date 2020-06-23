@@ -11,20 +11,22 @@ intelligence, specifically machine learning and deep learning.
 
 ## Currently
 
-I'm a Engineer at [Axis Communications](http://www.axis.com/), based at the
+I am an Engineer at [Axis Communications](http://www.axis.com/), based at the
 R&D New Business site in Lund, Sweden. My role includes, but is not limited
 to, cloud computing, software development, DevOps and solution designing.
 
 ## Experience
 `2020-` __Axis Communications__ Software Engineer & DevOps Engineer
 
-Part of a new cloud-native serverless computing project within the field of
-Audio. We started the project from scratch and the goal was to develop a
-multi-site serverless solution. The solution can be used for voice messaging,
-music streaming, warning system etc. The architecture of choice was
-microservice-oriented with Pub/Sub pattern in order to ensure event-driven
-architecture. The Serverless computing allowed our application to quickly
-scale in response to demand.
+Part of a new cloud-native project within the field of audio. We started the
+project from scratch and the goal was to develop a multi-site serverless
+solution for voice messaging, music streaming, warning system and site
+configuration etc. The architecture of choice was microservice-oriented with
+Pub/Sub pattern in order to ensure an event-driven application. Various AWS
+resources were used in our solution such as AppSync for GraphQL API, SNS
+topics & SQS queues for Pub/Sub pattern and Lambdas for serverless
+implementation, to mention some. This design enabled our application to
+quickly scale in response to demand.
 
 `2018-2020` __Axis Communications__ Software Engineer
 
@@ -66,7 +68,7 @@ Spain through Erasmus programme for higher education students
 ## Publications
 
 <!-- ### Thesis -->
-`2018` __ZEID BAKER, Mousa__ Generation of Synthetic Images with Generative
+`2018` __Zeid Baker, Mousa__ Generation of Synthetic Images with Generative
 Adversarial Networks.
 
 
