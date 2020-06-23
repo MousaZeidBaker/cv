@@ -20,8 +20,8 @@ to, cloud computing, software development, DevOps and solution designing.
 
 Part of a new cloud-native project within the field of audio. We started the
 project from scratch and the goal was to develop a multi-site serverless
-solution for voice messaging, music streaming, warning system and site
-configuration etc. The architecture of choice was microservice-oriented with
+solution for voice messaging, music streaming, warning system etc with
+network speakers. The architecture of choice was microservice-oriented with
 Pub/Sub pattern in order to ensure an event-driven application. Various AWS
 resources were used in our solution such as AppSync for GraphQL API, SNS
 topics & SQS queues for Pub/Sub pattern and Lambdas for serverless
