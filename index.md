@@ -117,6 +117,6 @@ Adversarial Networks.
 Available on request.
 
 ## Contact
-Phone: +46 736 48 64 64
+Phone: +46 736 48 64 64 
 Email: mousa.zeid.baker@gmail.com  
 Address: Malmö, Sweden
