@@ -1,6 +1,7 @@
 # Mousa Zeid Baker
 Degree in Computer Science and Engineering
-<img align="right" width="80" height="80" src="./images/mousa_profile_image.jpeg">
+
+![](https://raw.githubusercontent.com/MousaZeidBaker/cv/master/images/mousa_profile_image.jpeg)
 
 ## About me
 Extremely motivated to constantly develop my skills, increase my knowledge
