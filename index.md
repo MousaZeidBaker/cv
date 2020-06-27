@@ -1,6 +1,8 @@
 # Mousa Zeid Baker
 Degree in Computer Science and Engineering
 
+<img align="right" src="./images/mousa_profile_image.jpeg">
+
 ## About me
 Extremely motivated to constantly develop my skills, increase my knowledge
 and to grow professionally. I am confident in my ability to deliver creative
