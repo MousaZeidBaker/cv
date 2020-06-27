@@ -21,25 +21,25 @@ designing.
 
 Part of a new cloud-native project within the field of audio. We started the
 project from scratch and the goal was to develop a multi-site serverless
-solution for voice messaging, music streaming, warning system. The platform
-setup included network speakers and other audio devices. The architecture of
-choice was microservice-oriented with Pub/Sub pattern in order to ensure an
-event-driven application. Various AWS resources were used in our solution
-such as AppSync for GraphQL API, SNS topics & SQS queues for Pub/Sub pattern,
-Lambdas for serverless implementation and DynamoDB as database. This design
-enabled our application to quickly scale in response to demand. We used The
-AWS Cloud Development Kit (AWS CDK) framework together with TypeScript to
-model and build our cloud infrastructure.
+solution for voice messaging, music streaming, warning system etc. The
+platform setup included network speakers and other audio devices. The
+architecture of choice was microservice-oriented with Pub/Sub pattern in
+order to ensure an event-driven application. Various AWS resources were used
+in our solution such as AppSync for GraphQL API, SNS topics & SQS queues for
+Pub/Sub pattern, Lambdas for serverless implementation and DynamoDB as
+database. This design enabled our application to quickly scale in response to
+demand. We used The AWS Cloud Development Kit (AWS CDK) framework together
+with TypeScript to model and build our cloud infrastructure.
 
 `Jun 2017-Nov 2019` __Axis Communications__ Software Engineer
 
-Developer with a cloud-based surveillance solution for security and alarm
+Developer within a cloud-based surveillance solution for security and alarm
 monitoring companies. The platform setup included network video cameras and a
 variety of analytics and security devices. I had the time to be part of two
 agile teams, one backend and one frontend, with a main focus on the backend.
 With time I got an important role as an API specialist where I had the
 opportunity to both design and implement JSON RESTful APIs. The old code base
-was in PHP while new microservices were in Node.js. For our REST APIS, we
+was in PHP while new microservices were in Node.js. For our REST API:s we
 used Laravel, a PHP framework that follows the model–view–controller
 architectural pattern. A MySQL database was used and the cloud was modeled
 and set up with Terraform.
@@ -117,6 +117,6 @@ Adversarial Networks.
 Available on request.
 
 ## Contact
-Phone: 0736- 48 64 64  
+Phone: +46 736 48 64 64
 Email: mousa.zeid.baker@gmail.com  
 Address: Malmö, Sweden
