@@ -13,7 +13,7 @@ specifically machine learning and deep learning.
 
 ## Currently
 
-I am an Experienced Engineer at [Axis Communications](http://www.axis.com/),
+I am an experienced Engineer at [Axis Communications](http://www.axis.com/),
 based at the R&D New Business site in Lund, Sweden. My role includes, but is
 not limited to, cloud computing, software development, DevOps and solution
 designing.
