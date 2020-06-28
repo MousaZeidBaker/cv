@@ -6,7 +6,7 @@ Degree in Computer Science and Engineering
 ## About me
 Extremely motivated to constantly develop my skills, increase my knowledge
 and to grow professionally. I am confident in my ability to deliver creative
-solutions and ideas where I can apply my technical knowledge and skills. My
+solutions and ideas where I can apply my technical knowledge and expertise. My
 primarily skills lie within the field of cloud computing, DevOps and plain
 software development. I also have interest in artificial intelligence,
 specifically machine learning and deep learning.
